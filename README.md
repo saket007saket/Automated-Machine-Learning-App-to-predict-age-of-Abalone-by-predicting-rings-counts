@@ -2,7 +2,7 @@
 
 Its automated Machine Learning App where all the steps of training and prediction will be done by control on user interface, 
 
-Training Phases 
+ Automated training Phases 
 
 (1) Name Validation
 
