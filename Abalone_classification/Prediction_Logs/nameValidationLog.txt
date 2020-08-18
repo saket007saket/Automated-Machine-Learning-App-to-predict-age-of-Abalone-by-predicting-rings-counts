@@ -1,0 +1,6 @@
+2020-08-14/13:52:07		Valid File name!! File moved to GoodRaw Folder :: Abalone_123456789_123456.csv
+2020-08-14/13:52:07		Invalid File Name!! File moved to Bad Raw Folder :: Abalone_987654321_123.csv
+2020-08-15/17:21:45		Valid File name!! File moved to GoodRaw Folder :: Abalone_123456789_123456.csv
+2020-08-15/17:21:45		Invalid File Name!! File moved to Bad Raw Folder :: Abalone_987654321_123.csv
+2020-08-18/14:32:28		Valid File name!! File moved to GoodRaw Folder :: Abalone_123456789_123456.csv
+2020-08-18/14:32:28		Invalid File Name!! File moved to Bad Raw Folder :: Abalone_987654321_123.csv

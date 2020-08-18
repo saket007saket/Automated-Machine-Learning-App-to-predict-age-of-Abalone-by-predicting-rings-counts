@@ -1,0 +1,2 @@
+2020-08-14/12:56:34		Valid File name!! File moved to GoodRaw Folder :: Abalone_021119920_010222.csv
+2020-08-14/12:56:34		Invalid File Name!! File moved to Bad Raw Folder :: Abalone_0334_01022.csv

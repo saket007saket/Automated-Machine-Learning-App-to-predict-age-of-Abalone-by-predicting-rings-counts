@@ -1,0 +1,17 @@
+{
+	"SampleFileName":"Abalone_021119920_010222",
+	"LengthOfDateStampInFile": 9,
+	"LengthOfTimeStampInFile": 6,
+	"NumberofColumns": 9,
+	"ColName":{
+		"Sex":"varchar",
+		"Length":"Integer",
+		"Diameter":"Integer",
+		"Height":"Integer",
+		"Whole_weight":"Integer",
+		"Shucked_weight":"Integer",
+		"Viscera_weight":"Integer",
+		"Shell_weight":"Integer",
+		"Rings":"Integer"
+	}
+}
