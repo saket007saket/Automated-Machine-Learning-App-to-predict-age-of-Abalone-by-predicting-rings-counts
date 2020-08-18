@@ -1,6 +1,6 @@
 # Automated_Machine_Learning_App_to_predict_age_of_Abalone_by_predicting_rings_counts
 
-Its automated Machine Learning App where all the steps of training and prediction will be done by control on user interface, 
+Its automated Machine Learning App where all the steps of training and prediction will be done by  user interface Button Control, 
 
  Automated training Phases 
 
