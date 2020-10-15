@@ -1,4 +1,27 @@
-# Automated_Machine_Learning_App_to_predict_age_of_Abalone_by_predicting_rings_counts
+# Project name:-Automated Machine Learning App to predict age of Abalone by predicting rings counts.
+
+
+# Period:- 
+
+July 2020 - August 2020
+# Business objective:-
+
+It is  the automated machine learning model to predict the abalone age using the prediction of counts of rings of Abalone. its called as automated because all steps of training, prediction, database creation, log file maintenance are done automatically using button control on user interface. 
+# Algorithms:-
+
+XGBoosting, Random Forest, KMeans clustering
+Steps:-automated training phase:---> name validation-->Data transformation to insert in Database-- >Database Creation & data insertion in Database-->export of data from DB in .csv-->Data preprocessing-->Clustering-->model building-->saving the model-->automated prediction phase:-- >Name Validation-->.....same as training....---->selecting the appropriate cluster-->Calling the appropriate model for chosen cluster-->predicting the result-->storing the predicted result in file as well as shown on user interface page.
+# Deployment:- 
+
+on flask as integrating platform on pycharm as tool for integration
+# video explnation demo of Project URL:-
+
+https://www.linkedin.com/posts/saket-nandan-758117106_machinelearning-artificialintelligence-ml-activity-6701414913463599104-scha
+
+
+
+
+
 
 Its automated Machine Learning App where all the steps of training and prediction will be done by  user interface Button Control, 
 
